@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.Properties.Resources.resources
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.AssemblyInfo.cs
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BusTravel\BusTravel\bin\Debug\net8.0-windows\BusTravel.exe
+C:\Users\User\source\repos\BusTravel\BusTravel\bin\Debug\net8.0-windows\BusTravel.deps.json
+C:\Users\User\source\repos\BusTravel\BusTravel\bin\Debug\net8.0-windows\BusTravel.runtimeconfig.json
+C:\Users\User\source\repos\BusTravel\BusTravel\bin\Debug\net8.0-windows\BusTravel.dll
+C:\Users\User\source\repos\BusTravel\BusTravel\bin\Debug\net8.0-windows\BusTravel.pdb
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.dll
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\refint\BusTravel.dll
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.pdb
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\BusTravel.genruntimeconfig.cache
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\ref\BusTravel.dll
+C:\Users\User\source\repos\BusTravel\BusTravel\obj\Debug\net8.0-windows\Ticket.Form1.resources
